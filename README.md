@@ -1,4 +1,4 @@
-# Web-Enumeration-Script
+# Web Enumeration Script
 This Script contains tools like assetfinder, amass, httprobe, subjack, nmap, waybackurls and gowitness.
 
 # To run the Script:
