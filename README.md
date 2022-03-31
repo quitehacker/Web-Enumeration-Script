@@ -1,7 +1,7 @@
 # Web Enumeration Script
 This Script contains tools like assetfinder, amass, httprobe, subjack, nmap, waybackurls and gowitness.
 
-# To run the Script:
+# To Run the Script
 - Syntax:
 `./webenumscript.sh [domain]`
 - For Example:
