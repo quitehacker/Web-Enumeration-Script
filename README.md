@@ -2,6 +2,10 @@
 This Script contains tools like assetfinder, amass, httprobe, subjack, nmap, waybackurls and gowitness.
 
 # To Run the Script
+
+> Before Running The Script
+`chmod +x webenumscript.sh`
+
 - Syntax:
 `./webenumscript.sh [domain]`
 - For Example:
