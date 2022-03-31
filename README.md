@@ -35,6 +35,9 @@ This Script contains tools like assetfinder, amass, httprobe, subjack, nmap, way
 export GOPATH="$HOME/go"
 PATH="$GOPATH/bin:$PATH"
 ```
+> Check if it got added into the path
+`echo $PATH`
+
 - WayBackURLs Installation
 `go install github.com/tomnomnom/waybackurls@latest`
 `sudo cp /home/kali/go/bin/waybackurls /usr/bin`
